@@ -17,6 +17,13 @@
         charis papaioannou 
     </author>
     <platform name="android" />
+    <platform name="android">
+              <icon src="icon/star.png" density="ldpi" />
+              <icon src="icon/star.png" density="mdpi" />
+              <icon src="icon/star.png" density="hdpi" />
+              <icon src="icon/star.png" density="xhdpi" />
+     </platform>
+
 
 
 </widget>
